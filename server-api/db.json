@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "9ae66726-57c9-46a3-88a0-981dad677651",
+      "name": "vicky",
+      "email": "vicky.inforios@gmail.com"
+    },
+    {
+      "id": "779c1576-3ec6-4784-b534-bc0637dc37b7",
+      "name": "john",
+      "email": "jhon@gmail.com"
+    },
+    {
+      "id": "b7d7e684-1bc0-44b5-a6f5-8e98f2b07f2a",
+      "name": "shankar",
+      "email": "shankar@inforios.com"
+    },
+    {
+      "id": "1c3df724-81d9-40ba-a4a6-e1bc92eff3b5",
+      "name": "aravind",
+      "email": "aravind@inforios.com"
+    },
+    {
+      "id": "4550ac2b-f01c-4fc0-aa0b-0aedeee63593",
+      "name": "Gowsick",
+      "email": "gowsick@inforios.com"
+    },
+    {
+      "id": "a5152d0e-0c37-4c43-8c78-39f1f8e2c1d4",
+      "name": "sudharsan",
+      "email": "sudharsan@inforios.com"
+    }
+  ]
+}
